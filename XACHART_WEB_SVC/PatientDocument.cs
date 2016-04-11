@@ -8,5 +8,7 @@ namespace XACHART_WEB_SVC
     public class PatientDocument
     {
         public string a { get; set; }
-}
+        public string b { get; set; }
+    }
+
 }
