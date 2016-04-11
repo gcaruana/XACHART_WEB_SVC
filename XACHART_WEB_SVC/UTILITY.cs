@@ -11,5 +11,6 @@ namespace XACHART_WEB_SVC
         public int Id { get; set; }
         public string Name { get; set; }
         public int Salary { get; set; }
+        public int Salary2 { get; set; }
     }
 }
